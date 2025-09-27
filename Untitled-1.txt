@@ -1,0 +1,3 @@
+movies = pickle.load('artificates/movie_list.pkl','rb')
+similarity= pickle.load('artificates/similarity_list.pkl','rb')
+streamlit run "C:\Users\DELL\OneDrive - Benha University (Faculty Of Agriculture)\Desktop\ai tasks\project movie R\web.py"
